@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/seba/login/LoginServlet.java=UTF-8
+encoding//src/main/java/com/seba/logout/LogoutServlet.java=UTF-8
+encoding//src/main/java/com/seba/todo/AddTodoServlet.java=UTF-8
+encoding//src/main/java/com/seba/todo/DeleteTodoServlet.java=UTF-8
+encoding//src/main/java/com/seba/todo/ListTodoServlet.java=UTF-8
